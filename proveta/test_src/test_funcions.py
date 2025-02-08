@@ -8,4 +8,4 @@ def test_es_primo_numero_primo():
 
 
 def test_es_primo_numero_primo_No():
-    assert funcions.es_primo(2) == False
+    assert funcions.es_primo(2) == True
